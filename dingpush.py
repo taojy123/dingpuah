@@ -7,7 +7,7 @@ import re
 
 
 PHONES = ['13402110752', '15098942790', '15039211110', '18611010376']
-PHONES = ['13402110752']
+# PHONES = ['13402110752']
 
 
 print('==== dingpush begin =====')
@@ -23,7 +23,7 @@ while True:
         t = datetime.datetime.now().strftime('%H:%M')
         print(t)
 
-        if t != '14:05':
+        if t != '12:45':
             continue
 
         print('=============================================')
