@@ -23,7 +23,7 @@ while True:
         t = datetime.datetime.now().strftime('%H:%M')
         print(t)
 
-        if t != '12:45':
+        if t != '11:50':
             continue
 
         print('=============================================')
