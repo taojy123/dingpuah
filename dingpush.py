@@ -18,12 +18,11 @@ while True:
 
     try:
 
-        time.sleep(55)
-
         t = datetime.datetime.now().strftime('%H:%M')
         print(t)
 
         if t != '11:50':
+            time.sleep(55)
             continue
 
         print('=============================================')
@@ -60,6 +59,8 @@ while True:
         f.close()
 
         print(r.json())
+
+        time.sleep(55)
 
     except Exception as e:
         traceback.print_exc()
