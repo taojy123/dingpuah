@@ -3,7 +3,7 @@ var page = new WebPage()
 
 var c = {
     'name': 'fine_auth_token',
-    'value': 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJmYW5ydWFuIiwiaWF0IjoxNTc0MjIxODAwLCJleHAiOjE1NzQ1ODE4MDAsInN1YiI6ImFkbWluIiwiZGVzY3JpcHRpb24iOiJhZG1pbihhZG1pbikiLCJqdGkiOiJqd3QifQ.LveLmhSt9A1wubua3B1FaPPIbXYtMK7JxLrEZ8nrr3E',
+    'value': 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJmYW5ydWFuIiwiaWF0IjoxNTc0Mzk0NjM4LCJleHAiOjE1NzQ3NTQ2MzgsInN1YiI6ImFkbWluIiwiZGVzY3JpcHRpb24iOiJhZG1pbihhZG1pbikiLCJqdGkiOiJqd3QifQ.geDczfC33Jt8xWhRPnl2Tvcrnpam9jP7ecscdvPqbtI',
     'path': '/',
     'domain':'172.23.43.13'
 }
